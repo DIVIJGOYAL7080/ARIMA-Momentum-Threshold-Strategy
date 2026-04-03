@@ -1,4 +1,4 @@
-# ARIMA-MODEL
+# ARIMA-Momentum-Threshold-Strategy
 ## What is ARIMA?
 
 ARIMA stands for **AutoRegressive Integrated Moving Average**. It is a time-series model used to describe and forecast data based on its past behavior.
